@@ -1,14 +1,14 @@
 ### Hi there I'm kkcc 👋
 
 #### - 📖 language :
-  ![mylanguage](https://skillicons.dev/icons?i=js,html,css,rust,go,java,md,py&theme=light)
+  ![mylanguage](https://skillicons.dev/icons?i=js,html,css,rust,go,java,md,cs,py&theme=light)
 #### - 🔭 skills :
 
-  ![myskills](https://skillicons.dev/icons?i=django,spring,vue,rabbitmq,postman,git,github,redis,idea,mysql,docker,md,kafka,linux&theme=light)
+  ![myskills](https://skillicons.dev/icons?i=django,spring,vue,rabbitmq,postman,git,github,redis,idea,mysql,docker,md,kafka,linux,vscode,dotnet,vim,maven,ubuntu&theme=light)
 
 #### - 👀 learning :
   
-  ![myleaning](https://skillicons.dev/icons?i=vue,react,go,rust,nodejs,docker&theme=light)
+  ![myleaning](https://skillicons.dev/icons?i=vue,react,go,rust,nodejs,docker,cs&theme=light)
 
 #### - 📫 study and keep improving
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kte66&show_icons=true&theme=dark)](https://github.com/kte66)
