@@ -1,4 +1,4 @@
-### Hi there I'm kte66 👋
+### Hi there I'm kkcc 👋
 
 - 📖 language :
   ![mylanguage](https://skillicons.dev/icons?i=js,html,css,rust,go,java,md,py&theme=light)
@@ -7,8 +7,8 @@
 - 👀 learning :
   ![myleaning](https://skillicons.dev/icons?i=vue,react,go,rust,js&theme=light)
 - 📫 study and keep improving
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kte66&show_icons=true&theme=highcontrast)](https://github.com/kte66)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kte66&show_icons=true&theme=highcontrast)](https://github.com/kte66)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kte66&show_icons=true&theme=dark)](https://github.com/kte66)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kte66&show_icons=true&theme=dark)](https://github.com/kte66)
 
 <!--
 **kte66/kte66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
